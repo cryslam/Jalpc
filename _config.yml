@@ -13,11 +13,11 @@ url: https://cryslam.github.io/  # url should be 'http://<github_username>.githu
 author:  Crystal Lam # change following line to your infomation.
 about:
   skill_icon1:
-    - name: fa-shell
+    - name: fa-linux
     - name: icon-git
   skill_icon2:
+    - name: icon-git
     - name: fa-linux
-    - name: icon-nodejs
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
   github_username: cryslam  # Leave blank if you don't have now
   linkedin_id: crystallamxx # Leave blank if you don't have now
