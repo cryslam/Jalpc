@@ -1,3 +1,3 @@
 ## About Me Website ##
 
-* Built with the Jalpc Jekyll theme
+Built with the Jalpc Jekyll theme
