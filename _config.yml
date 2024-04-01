@@ -19,9 +19,12 @@ about:
     - name: icon-git
     - name: fa-linux
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
+  email: test@gmail.com
   github_username: cryslam  # Leave blank if you don't have now
   linkedin_id: crystallamxx # Leave blank if you don't have now
-  desc: About me by Crystal Lam  # Describe yourself.
+  instagram_username: kitchendecoder
+  desc: Lead software engineer and subject matter expert with 8+ years of experience in both enterprise/consumer customer-facing product development and cloud infrastructure. Primary interests are chaos engineering, Kubernetes, and service mesh.  # Describe yourself.
+
 
 name: Crystal Lam  # Be used at blog posts' author.
 first_name: Crystal  # Be used at index page about me section.
@@ -35,7 +38,6 @@ last_name: Lam  # Be used at index page about me section.
   
 
 
-# description: Lead software engineer and subject matter expert with 8+ years of experience in both enterprise/consumer customer-facing product development and cloud infrastructure. Primary interests are chaos engineering, Kubernetes, and service mesh.  # Describe yourself.
 
 
 # comment
