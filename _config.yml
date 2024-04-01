@@ -2,9 +2,9 @@
 
 # Website settings
 title: Crystal Lam
-description: About Me
+description: About Me by Crystal Lam
 keywords: Jalpc,Jekyll,github,gh-pages
-baseurl:  "/" # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
+# baseurl:  "/" # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage'
 url: https://cryslam.github.io/  # url should be 'http://<github_username>.github.io/homepage' as before
 # url: http://127.0.0.1:4000
 # img_path: /Jalpc/static/assets/img/blog  # url should be '/homepage/static/assets/img/blog' as before
@@ -28,7 +28,10 @@ skill_icon1:
 skill_icon2:
   - name: fa-aws
   - name: fa-docker
-desc: Lead software engineer and subject matter expert with 8+ years of experience in both enterprise/consumer customer-facing product development and cloud infrastructure. Primary interests are chaos engineering, Kubernetes, and service mesh.  # Describe yourself.
+desc: About me by Crystal Lam  # Describe yourself.
+
+description: Lead software engineer and subject matter expert with 8+ years of experience in both enterprise/consumer customer-facing product development and cloud infrastructure. Primary interests are chaos engineering, Kubernetes, and service mesh.  # Describe yourself.
+
 
 # comment
 # disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
