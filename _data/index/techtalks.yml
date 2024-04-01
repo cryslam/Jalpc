@@ -12,7 +12,7 @@
   talklink:
     detail: https://www.youtube.com/watch?v=qSV2MjVc9I0
     i18n: conference_a_link
-  icon: fa-plus-square
+  icon: fa-arrow-down
   present: true
 
 - name:
@@ -27,7 +27,7 @@
   talklink:
     detail: https://www.chaosnative.com/chaosday
     i18n: conference_b_link
-  icon: fa-plus-square
+  icon: fa-arrow-down
 
 - name:
     detail: AWS:reInvent — Chalk Talk
@@ -41,4 +41,4 @@
   talklink:
     detail: https://www.slideshare.net/AmazonWebServices/how-dow-jones-uses-aws-to-enable-innovation-and-new-engineering-work-ctd316-aws-reinvent-2018
     i18n: conference_c_link
-  icon: fa-plus-square
+  icon: fa-arrow-down
