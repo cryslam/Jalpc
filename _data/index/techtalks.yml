@@ -1,0 +1,44 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: CHAOS CARNIVAL — Chaos Panel 
+    i18n: conference_a
+  desc:
+    detail: Building Software Resilience and Reliability with Chaos Engineering
+    i18n: conference_a_desc
+  date:
+    detail: March 15, 2023
+    i18n: conference_a_date
+  talklink:
+    detail: https://www.youtube.com/watch?v=qSV2MjVc9I0
+    i18n: conference_a_link
+  icon: fa-plus-square
+  present: true
+
+- name:
+    detail: KubeCon+ CloudNativeCon NA — Chaos Day
+    i18n: conference_b
+  desc:
+    detail: How We Used LitmusChaos to Have a Bad Day on Purpose
+    i18n: conference_b_desc
+  date:
+    detail: October 25, 2022
+    i18n: conference_b_date
+  talklink:
+    detail: https://www.chaosnative.com/chaosday
+    i18n: conference_b_link
+  icon: fa-plus-square
+
+- name:
+    detail: AWS:reInvent — Chalk Talk
+    i18n: conference_c
+  desc:
+    detail: How Dow Jones Uses AWS to Enable Innovation and New Engineering Work (CTD316)
+    i18n: conference_c_desc
+  date:
+    detail: November 27, 2018
+    i18n: conference_c_date
+  talklink:
+    detail: https://www.slideshare.net/AmazonWebServices/how-dow-jones-uses-aws-to-enable-innovation-and-new-engineering-work-ctd316-aws-reinvent-2018
+    i18n: conference_c_link
+  icon: fa-plus-square
