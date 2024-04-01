@@ -23,11 +23,11 @@ linkedin_id: crystallamxx # Leave blank if you don't have now
 # cv: # An online CV can be printed as PDF, leave blank if you don't have now
 # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
 skill_icon1:
-  - name: icon-apache
+  - name: icon-nodejs
   - name: fa-linux
 skill_icon2:
-  - name: fa-linux
-  - name: icon-apache
+  - name: fa-aws
+  - name: fa-docker
 desc: Lead software engineer and subject matter expert with 8+ years of experience in both enterprise/consumer customer-facing product development and cloud infrastructure. Primary interests are chaos engineering, Kubernetes, and service mesh.  # Describe yourself.
 
 # comment
