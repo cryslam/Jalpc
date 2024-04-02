@@ -25,21 +25,11 @@ about:
   instagram_username: kitchendecoder
   desc: Lead software engineer and subject matter expert with 8+ years of experience in both enterprise/consumer customer-facing product development and cloud infrastructure. Primary interests are chaos engineering, Kubernetes, and service mesh.  # Describe yourself.
 
-
-name: Crystal Lam  # Be used at blog posts' author.
-first_name: Crystal  # Be used at index page about me section.
-last_name: Lam  # Be used at index page about me section.
-
 # facebook_username: # Leave blank if you don't have now
 # twitter_username: # Leave blank if you don't have now
-# email: # Leave blank if you don't have now
 # cv: # An online CV can be printed as PDF, leave blank if you don't have now
 # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   
-
-
-
-
 # comment
 # disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
 #   name: jalpc
