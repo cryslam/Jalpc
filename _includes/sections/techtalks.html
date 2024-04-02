@@ -15,7 +15,9 @@
                         <i class="fa {{ techtalks.icon }}"></i>
                     </div>
                     <div class="vertical-timeline-content wow {% if loopindex == 1 %} rotateInUpRight {% else %} rotateInUpLeft {% endif %}">
-                        <h2><span data-i18n="techtalks.{{ techtalks.name.i18n }}">{{ techtalks.name.detail }}</span></h2>
+                        <a href="{{ techtalks.talklink.url }}">
+                          <h2><span data-i18n="techtalks.{{ techtalks.name.i18n }}">{{ techtalks.name.detail }}</span></h2>
+                        </a>
                         <p><span data-i18n="techtalks.{{ techtalks.desc.i18n }}">{{ techtalks.desc.detail }} </span></p>
                         <span class="vertical-date"><span data-i18n="techtalks.{{ techtalks.date.i18n }}"> {{ techtalks.date.detail }} </span>
                         <br/> <small><a href="{{ techtalks.talklink.detail }}"><span data-i18n="techtalks.{{ techtalks.talklink.i18n }}">{{ techtalks.talklink.detail }}</span></a></small> </span>

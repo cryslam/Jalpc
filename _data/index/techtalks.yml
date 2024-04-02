@@ -10,7 +10,7 @@
     detail: March 15, 2023
     i18n: conference_a_date
   talklink:
-    detail: https://www.youtube.com/watch?v=qSV2MjVc9I0
+    url: https://www.youtube.com/watch?v=qSV2MjVc9I0
     i18n: conference_a_link
   icon: fa-arrow-down
   present: true
@@ -25,7 +25,7 @@
     detail: October 25, 2022
     i18n: conference_b_date
   talklink:
-    detail: https://www.chaosnative.com/chaosday
+    url: https://www.chaosnative.com/chaosday
     i18n: conference_b_link
   icon: fa-arrow-down
 
@@ -39,6 +39,6 @@
     detail: November 27, 2018
     i18n: conference_c_date
   talklink:
-    detail: https://www.slideshare.net/AmazonWebServices/how-dow-jones-uses-aws-to-enable-innovation-and-new-engineering-work-ctd316-aws-reinvent-2018
+    url: https://www.slideshare.net/AmazonWebServices/how-dow-jones-uses-aws-to-enable-innovation-and-new-engineering-work-ctd316-aws-reinvent-2018
     i18n: conference_c_link
   icon: fa-arrow-down
